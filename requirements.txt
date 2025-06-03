@@ -1,5 +1,2 @@
 streamlit
-python==3.9
 folium
-geopandas
-streamlit-folium
