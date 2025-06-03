@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas
 import folium
 from streamlit_folium import st_folium
 
