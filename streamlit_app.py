@@ -1,5 +1,5 @@
 import streamlit as st
-#from streamlit_folium import folium_static
+from streamlit_folium import folium_static
 import folium
 from folium.plugins import MarkerCluster
 import pandas as pd
