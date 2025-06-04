@@ -7,7 +7,7 @@ import pandas as pd
 
 st.title("진주시 CCTV 현황")
 
-df = pd.read_csv("/content/jinju_cctv_20250513.csv", encoding='euc-kr')
+df = pd.read_csv("jinju_cctv_20250513.csv", encoding='euc-kr')
 
 st.dataframe(df, height=200)
 
